@@ -1,0 +1,10 @@
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305---COBOL\Chapter 1\assignment1\bin\x64\Debug\assignment1.exe
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305---COBOL\Chapter 1\assignment1\bin\x64\Debug\Program1.idy
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305---COBOL\Chapter 1\assignment1\obj\x64\Debug\assignment1.exe
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305---COBOL\Chapter 1\assignment1\obj\x64\Debug\Program1.idy
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305---COBOL\Chapter 1\assignment1\obj\x64\Debug\Program1.obj
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 1\assignment1\bin\x64\Debug\assignment1.exe
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 1\assignment1\bin\x64\Debug\Program1.idy
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 1\assignment1\obj\x64\Debug\assignment1.exe
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 1\assignment1\obj\x64\Debug\Program1.idy
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 1\assignment1\obj\x64\Debug\Program1.obj
