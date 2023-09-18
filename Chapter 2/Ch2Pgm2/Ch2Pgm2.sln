@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "Ch2Pgm2", "Ch2Pgm2.cblproj", "{040E23EA-5512-41B7-9770-98DDE7BD16A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Debug|x64.ActiveCfg = Debug|x64
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Debug|x64.Build.0 = Debug|x64
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Debug|x86.ActiveCfg = Debug|x86
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Debug|x86.Build.0 = Debug|x86
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Release|x64.ActiveCfg = Release|x64
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Release|x64.Build.0 = Release|x64
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Release|x86.ActiveCfg = Release|x86
+		{040E23EA-5512-41B7-9770-98DDE7BD16A7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {768F8F1D-CE14-4DC5-9B5C-79E473F24AEA}
+	EndGlobalSection
+EndGlobal

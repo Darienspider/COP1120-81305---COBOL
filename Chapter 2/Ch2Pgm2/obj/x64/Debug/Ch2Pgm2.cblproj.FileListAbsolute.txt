@@ -1,0 +1,5 @@
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 2\Ch2Pgm2\bin\x64\Debug\Ch2Pgm2.exe
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 2\Ch2Pgm2\bin\x64\Debug\Program1.idy
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 2\Ch2Pgm2\obj\x64\Debug\Ch2Pgm2.exe
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 2\Ch2Pgm2\obj\x64\Debug\Program1.idy
+C:\Users\Shadarien Williams\source\repos\Darienspider\COP1120-81305\Chapter 2\Ch2Pgm2\obj\x64\Debug\Program1.obj

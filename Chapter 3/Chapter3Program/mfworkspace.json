@@ -1,0 +1,22 @@
+{
+  "version": "4.0",
+  "cobol": {
+    "directives": {
+      "Program1.cbl": [
+        "nologo",
+        "int\"C:obj\\x64\\Debug\\Program1.int\"",
+        "visualstudio\"4\"",
+        "P64",
+        "anim",
+        "cobidy\"obj\\x64\\Debug\\\"",
+        "sourcetabstop\"4\"",
+        "noquery",
+        "warnings\"1\"",
+        "max-error\"100\"",
+        "obj\"C:obj\\x64\\Debug\\\"",
+        "delint",
+        "xtraint"
+      ]
+    }
+  }
+}
