@@ -1,0 +1,5 @@
+E:\COP1120-81305-COBOL\Chapter 8\ShadarienWilliamsChapter8\obj\x64\Debug\Program1.idy
+E:\COP1120-81305-COBOL\Chapter 8\ShadarienWilliamsChapter8\bin\x64\Debug\ShadarienWilliamsChapter8.exe
+E:\COP1120-81305-COBOL\Chapter 8\ShadarienWilliamsChapter8\bin\x64\Debug\Program1.idy
+E:\COP1120-81305-COBOL\Chapter 8\ShadarienWilliamsChapter8\obj\x64\Debug\ShadarienWilliamsChapter8.exe
+E:\COP1120-81305-COBOL\Chapter 8\ShadarienWilliamsChapter8\obj\x64\Debug\Program1.obj

@@ -1,0 +1,16 @@
+  10/23/2023       PASS-Em STATE College Student Summary Report     #stud   17
+
+
+
+    Percentage of students with gpa <2.0                     5.88%
+    Percentage of students with gpa 2.0 - 3.0               41.17%
+    Percentage of students with gpa > 3.0                   52.94%
+
+    Percentage w/ gpa > 3.0 AND Business Majors             77.77%
+    Percentage w/ gpa > 3.0 AND Liberal Arts                11.11%
+    Percentage w/ gpa > 3.0 AND Engineer Majors             11.11%
+    Percentage w/ > 100 Credits & gpa < 2.0                100.00%
+    Percentage w/ gpa > 3.0 and Freshmen                    11.11%
+    Percentage w/ gpa > 3.0 and Sophomores                  33.33%
+    Percentage w/ gpa > 3.0 and Juniors                     22.22%
+    Percentage w/ gpa > 3.0 and Seniors                     33.33%
