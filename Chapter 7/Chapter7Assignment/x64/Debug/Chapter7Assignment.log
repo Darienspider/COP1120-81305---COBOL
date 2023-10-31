@@ -1,0 +1,7 @@
+﻿  Chapter7Assignment.c
+E:\COP1120-81305-COBOL\Chapter 7\Chapter7Assignment\Chapter7Assignment.c(59,21): warning C4552: '-': result of expression not used
+E:\COP1120-81305-COBOL\Chapter 7\Chapter7Assignment\Chapter7Assignment.c(62,20): warning C4552: '-': result of expression not used
+E:\COP1120-81305-COBOL\Chapter 7\Chapter7Assignment\Chapter7Assignment.c(73,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\COP1120-81305-COBOL\Chapter 7\Chapter7Assignment\Chapter7Assignment.c(83,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\COP1120-81305-COBOL\Chapter 7\Chapter7Assignment\Chapter7Assignment.c(106,12): warning C4129: 'A': unrecognized character escape sequence
+  Chapter7Assignment.vcxproj -> E:\COP1120-81305-COBOL\Chapter 7\Chapter7Assignment\x64\Debug\Chapter7Assignment.exe

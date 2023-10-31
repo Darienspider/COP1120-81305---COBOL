@@ -1,0 +1,16 @@
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.cblproj.AssemblyReference.cache
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.cblproj.CoreCompileInputs.cache
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.ConsoleApplication1_Program1.idy
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.ConsoleApplication1_Program1.idy
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.ConsoleApplication1_Program1.idy
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.cblproj.AssemblyReference.cache
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.cblproj.CoreCompileInputs.cache
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\COP1120-81305-COBOL\Chapter 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.ConsoleApplication1_Program1.idy

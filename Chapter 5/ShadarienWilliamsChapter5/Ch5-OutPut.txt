@@ -1,0 +1,7 @@
+University Payroll Report
+RANK                          Emp. Count          Cost of Proposed Increase
+
+FULL                                  3                 $   11,610.00
+ASSOCIATE                             2                 $    5,760.00
+ASSISTANT                             2                 $    6,240.00
+INSTRUCTOR                            3                 $    7,410.00TOTAL UNIVERSITY BUDGET For: 10 Emps WILL BE INCREASED BY:$     31,020.00
