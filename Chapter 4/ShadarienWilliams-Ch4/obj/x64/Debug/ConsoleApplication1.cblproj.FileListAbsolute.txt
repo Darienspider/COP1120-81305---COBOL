@@ -1,0 +1,10 @@
+E:\COP1120-81305-COBOL\Chapter 4\ConsoleApplication1\bin\x64\Debug\ConsoleApplication1.exe
+E:\COP1120-81305-COBOL\Chapter 4\ConsoleApplication1\bin\x64\Debug\Program1.idy
+E:\COP1120-81305-COBOL\Chapter 4\ConsoleApplication1\obj\x64\Debug\ConsoleApplication1.exe
+E:\COP1120-81305-COBOL\Chapter 4\ConsoleApplication1\obj\x64\Debug\Program1.idy
+E:\COP1120-81305-COBOL\Chapter 4\ConsoleApplication1\obj\x64\Debug\Program1.obj
+E:\COP1120-81305-COBOL\Chapter 4\ShadarienWilliams-Ch4\bin\x64\Debug\ConsoleApplication1.exe
+E:\COP1120-81305-COBOL\Chapter 4\ShadarienWilliams-Ch4\bin\x64\Debug\Program1.idy
+E:\COP1120-81305-COBOL\Chapter 4\ShadarienWilliams-Ch4\obj\x64\Debug\ConsoleApplication1.exe
+E:\COP1120-81305-COBOL\Chapter 4\ShadarienWilliams-Ch4\obj\x64\Debug\Program1.idy
+E:\COP1120-81305-COBOL\Chapter 4\ShadarienWilliams-Ch4\obj\x64\Debug\Program1.obj

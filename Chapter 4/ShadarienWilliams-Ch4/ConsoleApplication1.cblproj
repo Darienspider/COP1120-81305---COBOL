@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Platform Condition=" '$(Platform)' == '' ">x64</Platform>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <ProjectGuid>{059E5D0F-3430-415C-9072-DE9F5FB3E144}</ProjectGuid>
-    <OutputName>Chapter3Program</OutputName>
+    <ProjectGuid>{B4A44988-33C4-4628-B07A-E4CB60288C75}</ProjectGuid>
+    <OutputName>ConsoleApplication1</OutputName>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter3Program</RootNamespace>
+    <RootNamespace>ConsoleApplication1</RootNamespace>
     <MFProjectType>Native</MFProjectType>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
